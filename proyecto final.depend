@@ -1,0 +1,534 @@
+# depslib dependency file v1.0
+1603577288 source:c:\users\juanm\desktop\proyecto final\libreriafinal.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"libreriaFinal.h"
+
+1603572922 c:\users\juanm\desktop\proyecto final\libreriafinal.h
+	<stdio.h>
+	<stdlib.h>
+
+1603575594 source:c:\users\juanm\desktop\proyecto final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"libreriaFinal.h"
+
+1603577340 source:c:\users\claud\desktop\progsegcuat2020\tp final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"libreriaFinal.h"
+
+1603633016 c:\users\claud\desktop\progsegcuat2020\tp final\libreriafinal.h
+	<stdio.h>
+	<stdlib.h>
+
+1603633266 source:c:\users\claud\desktop\progsegcuat2020\tp final\libreriafinal.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"libreriaFinal.h"
+
+1603631054 source:c:\users\claud\desktop\progsegcuat2020\tp final mmm\libreriafinal.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"libreriaFinal.h"
+
+1603633016 c:\users\claud\desktop\progsegcuat2020\tp final mmm\libreriafinal.h
+	<stdio.h>
+	<stdlib.h>
+
+1603577340 source:c:\users\claud\desktop\progsegcuat2020\tp final mmm\main.c
+	<stdio.h>
+	<stdlib.h>
+	"libreriaFinal.h"
+
+1604291536 source:c:\users\juanm\desktop\tp final\libreriafinal.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"libreriaFinal.h"
+
+1604291364 c:\users\juanm\desktop\tp final\libreriafinal.h
+	<stdio.h>
+	<stdlib.h>
+
+1604200815 source:c:\users\juanm\desktop\tp final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"libreriaFinal.h"
+
+1603941438 source:c:\users\claud\desktop\progsegcuat2020\tp_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"libreriaFinal.h"
+
+1603992902 c:\users\claud\desktop\progsegcuat2020\tp_final\libreriafinal.h
+	<stdio.h>
+	<stdlib.h>
+
+1604359610 source:c:\users\juanm\desktop\trabajo guardado\libreriafinal.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"libreriaFinal.h"
+
+1605283962 c:\users\juanm\desktop\trabajo guardado\libreriafinal.h
+	<stdio.h>
+	<stdlib.h>
+
+1604200815 source:c:\users\juanm\desktop\trabajo guardado\main.c
+	<stdio.h>
+	<stdlib.h>
+	"libreriaFinal.h"
+
+1605280930 source:c:\users\juanm\desktop\trabajo guardado\arbolcanciones.c
+
+1605280741 source:c:\users\juanm\desktop\trabajo guardado\gestionplaylist.c
+
+1605283796 source:c:\users\juanm\desktop\trabajo guardado\sistema.c
+
+1605631814 source:c:\users\juanm\desktop\prueba librerias\arbolcanciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"arbolCanciones.h"
+
+1605399876 c:\users\juanm\desktop\prueba librerias\arbolcanciones.h
+	<stdio.h>
+	<stdlib.h>
+	"gestionCanciones.h"
+
+1605383140 c:\users\juanm\desktop\prueba librerias\gestioncanciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1605578718 source:c:\users\juanm\desktop\prueba librerias\gestioncanciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"gestionCanciones.h"
+	"gestionValidacion.h"
+
+1605665900 c:\users\juanm\desktop\prueba librerias\gestionusuario.h
+	<stdio.h>
+	<stdlib.h>
+	"arbolCanciones.h"
+	"lista.h"
+
+1605662051 source:c:\users\juanm\desktop\prueba librerias\gestionplaylist.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"gestionPlaylist.h"
+
+1605456920 c:\users\juanm\desktop\prueba librerias\gestionplaylist.h
+	<stdio.h>
+	<stdlib.h>
+	"gestionUsuario.h"
+
+1605570688 source:c:\users\juanm\desktop\prueba librerias\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"arbolCanciones.h"
+	"gestionCanciones.h"
+	"gestionPlaylist.h"
+	"gestionUsuario.h"
+	"sistema.h"
+	"gestionMenus.h"
+	"gestionMostrar.h"
+	"gestionArchivos.h"
+	"gestionValidacion.h"
+	"lista.h"
+
+1605665900 c:\users\juanm\desktop\prueba librerias\sistema.h
+	<stdio.h>
+	<stdlib.h>
+
+1605667012 source:c:\users\juanm\desktop\prueba librerias\gestionusuario.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"gestionUsuario.h"
+	"gestionMenus.h"
+	"gestionArchivos.h"
+	"gestionPlaylist.h"
+
+1605668172 source:c:\users\juanm\desktop\prueba librerias\sistema.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"gestionPlaylist.h"
+	"sistema.h"
+	"gestionArchivos.h"
+	"gestionValidacion.h"
+
+1605667423 source:c:\users\juanm\desktop\prueba librerias\gestionmenus.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"gestionUsuario.h"
+	"gestionMenus.h"
+	"sistema.h"
+
+1605375090 c:\users\juanm\desktop\prueba librerias\gestionmenus.h
+	<stdio.h>
+	<stdlib.h>
+
+1605666000 source:c:\users\juanm\desktop\prueba librerias\gestionmostrar.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"gestionUsuario.h"
+	"gestionMostrar.h"
+
+1605485130 c:\users\juanm\desktop\prueba librerias\gestionmostrar.h
+	<stdio.h>
+	<stdlib.h>
+
+1605663363 c:\users\juanm\desktop\prueba librerias\gestionarchivos.h
+	<stdio.h>
+	<stdlib.h>
+	"gestionUsuario.h"
+
+1605667209 source:c:\users\juanm\desktop\prueba librerias\gestionarchivos.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"gestionArchivos.h"
+	"gestionPlaylist.h"
+	"sistema.h"
+
+1605663363 c:\users\juanm\desktop\prueba librerias\gestionvalidacion.h
+	<stdio.h>
+	<stdlib.h>
+	"gestionUsuario.h"
+	"sistema.h"
+
+1605663363 source:c:\users\juanm\desktop\prueba librerias\gestionvalidacion.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"gestionValidacion.h"
+
+1605382462 c:\users\juanm\desktop\prueba librerias\lista.h
+	<stdio.h>
+	<stdlib.h>
+
+1605399754 source:c:\users\juanm\desktop\prueba librerias\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"gestionCanciones.h"
+	"lista.h"
+
+1605384564 source:c:\users\paye_\desktop\tp finallll pablo\tp final git hub\arbolcanciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"arbolCanciones.h"
+
+1605399876 c:\users\paye_\desktop\tp finallll pablo\tp final git hub\arbolcanciones.h
+	<stdio.h>
+	<stdlib.h>
+	"gestionCanciones.h"
+
+1605383140 c:\users\paye_\desktop\tp finallll pablo\tp final git hub\gestioncanciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1605489190 source:c:\users\paye_\desktop\tp finallll pablo\tp final git hub\gestionarchivos.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"gestionArchivos.h"
+	"gestionPlaylist.h"
+	"sistema.h"
+
+1605485128 c:\users\paye_\desktop\tp finallll pablo\tp final git hub\gestionarchivos.h
+	<stdio.h>
+	<stdlib.h>
+	"gestionUsuario.h"
+
+1605485128 c:\users\paye_\desktop\tp finallll pablo\tp final git hub\gestionusuario.h
+	<stdio.h>
+	<stdlib.h>
+	"arbolCanciones.h"
+	"lista.h"
+
+1605382462 c:\users\paye_\desktop\tp finallll pablo\tp final git hub\lista.h
+	<stdio.h>
+	<stdlib.h>
+
+1605456920 c:\users\paye_\desktop\tp finallll pablo\tp final git hub\gestionplaylist.h
+	<stdio.h>
+	<stdlib.h>
+	"gestionUsuario.h"
+
+1605475420 c:\users\paye_\desktop\tp finallll pablo\tp final git hub\sistema.h
+	<stdio.h>
+	<stdlib.h>
+
+1605399829 source:c:\users\paye_\desktop\tp finallll pablo\tp final git hub\gestioncanciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"gestionCanciones.h"
+	"gestionValidacion.h"
+
+1605400036 c:\users\paye_\desktop\tp finallll pablo\tp final git hub\gestionvalidacion.h
+	<stdio.h>
+	<stdlib.h>
+	"gestionUsuario.h"
+	"sistema.h"
+
+1605575570 source:c:\users\paye_\desktop\tp finallll pablo\tp final git hub\gestionmenus.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"gestionUsuario.h"
+	"gestionMenus.h"
+	"sistema.h"
+
+1605375090 c:\users\paye_\desktop\tp finallll pablo\tp final git hub\gestionmenus.h
+	<stdio.h>
+	<stdlib.h>
+
+1605399808 source:c:\users\paye_\desktop\tp finallll pablo\tp final git hub\gestionmostrar.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"gestionUsuario.h"
+	"gestionMostrar.h"
+
+1605485128 c:\users\paye_\desktop\tp finallll pablo\tp final git hub\gestionmostrar.h
+	<stdio.h>
+	<stdlib.h>
+
+1605490580 source:c:\users\paye_\desktop\tp finallll pablo\tp final git hub\gestionplaylist.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"gestionPlaylist.h"
+
+1605470742 source:c:\users\paye_\desktop\tp finallll pablo\tp final git hub\gestionusuario.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"gestionUsuario.h"
+	"gestionMenus.h"
+	"gestionArchivos.h"
+	"gestionPlaylist.h"
+
+1605574925 source:c:\users\paye_\desktop\tp finallll pablo\tp final git hub\gestionvalidacion.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"gestionValidacion.h"
+
+1605399754 source:c:\users\paye_\desktop\tp finallll pablo\tp final git hub\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"gestionCanciones.h"
+	"lista.h"
+
+1605570687 source:c:\users\paye_\desktop\tp finallll pablo\tp final git hub\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"arbolCanciones.h"
+	"gestionCanciones.h"
+	"gestionPlaylist.h"
+	"gestionUsuario.h"
+	"sistema.h"
+	"gestionMenus.h"
+	"gestionMostrar.h"
+	"gestionArchivos.h"
+	"gestionValidacion.h"
+	"lista.h"
+
+1605490078 source:c:\users\paye_\desktop\tp finallll pablo\tp final git hub\sistema.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"gestionPlaylist.h"
+	"sistema.h"
+	"gestionArchivos.h"
+	"gestionValidacion.h"
+
+1605631814 source:c:\users\paye_\desktop\tp final dolores bruzzone, juan payetta, pablo payetta\dolores bruzzone, juan payetta, pablo payetta\arbolcanciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"arbolCanciones.h"
+
+1605399876 c:\users\paye_\desktop\tp final dolores bruzzone, juan payetta, pablo payetta\dolores bruzzone, juan payetta, pablo payetta\arbolcanciones.h
+	<stdio.h>
+	<stdlib.h>
+	"gestionCanciones.h"
+
+1605383140 c:\users\paye_\desktop\tp final dolores bruzzone, juan payetta, pablo payetta\dolores bruzzone, juan payetta, pablo payetta\gestioncanciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1605667209 source:c:\users\paye_\desktop\tp final dolores bruzzone, juan payetta, pablo payetta\dolores bruzzone, juan payetta, pablo payetta\gestionarchivos.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"gestionArchivos.h"
+	"gestionPlaylist.h"
+	"sistema.h"
+
+1605663363 c:\users\paye_\desktop\tp final dolores bruzzone, juan payetta, pablo payetta\dolores bruzzone, juan payetta, pablo payetta\gestionarchivos.h
+	<stdio.h>
+	<stdlib.h>
+	"gestionUsuario.h"
+
+1605665900 c:\users\paye_\desktop\tp final dolores bruzzone, juan payetta, pablo payetta\dolores bruzzone, juan payetta, pablo payetta\gestionusuario.h
+	<stdio.h>
+	<stdlib.h>
+	"arbolCanciones.h"
+	"lista.h"
+
+1605382462 c:\users\paye_\desktop\tp final dolores bruzzone, juan payetta, pablo payetta\dolores bruzzone, juan payetta, pablo payetta\lista.h
+	<stdio.h>
+	<stdlib.h>
+
+1605456920 c:\users\paye_\desktop\tp final dolores bruzzone, juan payetta, pablo payetta\dolores bruzzone, juan payetta, pablo payetta\gestionplaylist.h
+	<stdio.h>
+	<stdlib.h>
+	"gestionUsuario.h"
+
+1605665900 c:\users\paye_\desktop\tp final dolores bruzzone, juan payetta, pablo payetta\dolores bruzzone, juan payetta, pablo payetta\sistema.h
+	<stdio.h>
+	<stdlib.h>
+
+1605578718 source:c:\users\paye_\desktop\tp final dolores bruzzone, juan payetta, pablo payetta\dolores bruzzone, juan payetta, pablo payetta\gestioncanciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"gestionCanciones.h"
+	"gestionValidacion.h"
+
+1605663363 c:\users\paye_\desktop\tp final dolores bruzzone, juan payetta, pablo payetta\dolores bruzzone, juan payetta, pablo payetta\gestionvalidacion.h
+	<stdio.h>
+	<stdlib.h>
+	"gestionUsuario.h"
+	"sistema.h"
+
+1605667423 source:c:\users\paye_\desktop\tp final dolores bruzzone, juan payetta, pablo payetta\dolores bruzzone, juan payetta, pablo payetta\gestionmenus.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"gestionUsuario.h"
+	"gestionMenus.h"
+	"sistema.h"
+
+1605375090 c:\users\paye_\desktop\tp final dolores bruzzone, juan payetta, pablo payetta\dolores bruzzone, juan payetta, pablo payetta\gestionmenus.h
+	<stdio.h>
+	<stdlib.h>
+
+1605666000 source:c:\users\paye_\desktop\tp final dolores bruzzone, juan payetta, pablo payetta\dolores bruzzone, juan payetta, pablo payetta\gestionmostrar.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"gestionUsuario.h"
+	"gestionMostrar.h"
+
+1605485130 c:\users\paye_\desktop\tp final dolores bruzzone, juan payetta, pablo payetta\dolores bruzzone, juan payetta, pablo payetta\gestionmostrar.h
+	<stdio.h>
+	<stdlib.h>
+
+1605662051 source:c:\users\paye_\desktop\tp final dolores bruzzone, juan payetta, pablo payetta\dolores bruzzone, juan payetta, pablo payetta\gestionplaylist.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"gestionPlaylist.h"
+
+1605667012 source:c:\users\paye_\desktop\tp final dolores bruzzone, juan payetta, pablo payetta\dolores bruzzone, juan payetta, pablo payetta\gestionusuario.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"gestionUsuario.h"
+	"gestionMenus.h"
+	"gestionArchivos.h"
+	"gestionPlaylist.h"
+
+1605663363 source:c:\users\paye_\desktop\tp final dolores bruzzone, juan payetta, pablo payetta\dolores bruzzone, juan payetta, pablo payetta\gestionvalidacion.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"gestionValidacion.h"
+
+1605399754 source:c:\users\paye_\desktop\tp final dolores bruzzone, juan payetta, pablo payetta\dolores bruzzone, juan payetta, pablo payetta\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"gestionCanciones.h"
+	"lista.h"
+
+1605570688 source:c:\users\paye_\desktop\tp final dolores bruzzone, juan payetta, pablo payetta\dolores bruzzone, juan payetta, pablo payetta\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"arbolCanciones.h"
+	"gestionCanciones.h"
+	"gestionPlaylist.h"
+	"gestionUsuario.h"
+	"sistema.h"
+	"gestionMenus.h"
+	"gestionMostrar.h"
+	"gestionArchivos.h"
+	"gestionValidacion.h"
+	"lista.h"
+
+1605668212 source:c:\users\paye_\desktop\tp final dolores bruzzone, juan payetta, pablo payetta\dolores bruzzone, juan payetta, pablo payetta\sistema.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"gestionPlaylist.h"
+	"sistema.h"
+	"gestionArchivos.h"
+	"gestionValidacion.h"
+
